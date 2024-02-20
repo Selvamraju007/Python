@@ -1,8 +1,5 @@
 
-#What is the average number of marks scored by this batch of students, whose marks in an
-
-#exam are given below
-
+#What is the average number of marks scored by this batch of students, whose marks in an exam are given below 
 #[ 78, 89, 85, 91, 93, 82, 79 ]
 
 
