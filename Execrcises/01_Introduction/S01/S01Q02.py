@@ -2,15 +2,13 @@
 Print the multiplication table of 17
 """
 
-def print_mtable(num):
-    print(f"table of {num} is ...")
-    for index in range(1,11):
-        print(f"{num} * {index} = {num* index}")
+num = 17
 
-number = int(input("Enter a Number :"))
-    
+# To take input from the user
+# num = int(input("Display multiplication table of? "))
 
-# Main starts from here
-print_mtable(number)
+# Iterate 10 times from i = 1 to 10
+for i in range(1, 11):
+   print(num, 'x', i, '=', num*i)
     
   
